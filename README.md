@@ -1,4 +1,4 @@
-# genetic-algotihm
+# Genetic Algorithm
 
 Usage:
 ```
