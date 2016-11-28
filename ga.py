@@ -23,7 +23,7 @@ def init(populasi):
 		res.append(individu)
 	return res
 
-# funsi objektif
+# fungsi objektif
 def bobot(gene):
 	bobot = 0.0
 	hitung = len(gene) - 1
