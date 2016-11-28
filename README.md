@@ -1,4 +1,7 @@
-# Genetic Algorithm
+# Pencarian Rute dengan Algoritma Genetika
+
+Studi kasus:
+### Coming soon
 
 Usage:
 ```
